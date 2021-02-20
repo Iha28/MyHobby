@@ -1,0 +1,54 @@
+body {
+    text-align: center;
+    font-family: arial;
+    background-color: red;
+    margin: 2px;
+}
+#section1 {
+    background-color: lightpink;
+}
+#read {
+    font-size: 20px;
+}
+#books {
+    height: 150px;
+}
+#hp {
+    background: linear-gradient(#e834eb,#c634eb,#9c34eb);
+}
+#harry {
+    height: 300px;
+}
+#lw {
+    background: linear-gradient(#eb9f34,#ebba34,#ebdc34);
+}
+#women {
+    height: 400px;
+}
+
+#gs {
+    background: linear-gradient(#cbfcc5,#8ef582,#6cc761);
+}
+#stiltons {
+   height: 300px;
+}
+.menu {
+    list-style: none;
+    top: 0px;
+    position: fixed;
+    z-index: 10;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 0px;
+    padding-left: 500px;
+    background-color: aliceblue;
+}
+
+.links {
+    float: left;
+    color: black;
+}
+
+.links:hover {
+    background-color: coral;
+}
